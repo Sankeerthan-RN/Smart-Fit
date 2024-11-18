@@ -1,0 +1,762 @@
+,Brand Name,Size,Brand Size
+0,Roadster,38.0, S
+1,Roadster,40.0,M
+2,Roadster,42.0,L
+3,Roadster,44.0,XL
+4,Roadster,46.0,XXL
+5,Roadster,48.0,3XL
+6,WROGN,39.0,S
+7,WROGN,40.0,M
+8,WROGN,42.0,L
+9,WROGN,44.0,XL
+10,WROGN,46.0,XXL
+11,WROGN,39.0,S
+12,WROGN,40.0,M
+13,WROGN,42.0,L
+14,WROGN,44.0,XL
+15,WROGN,46.0,XXL
+16,Dennis Lingo,38.0,S
+17,Dennis Lingo,40.0,M
+18,Dennis Lingo,42.0,L
+19,Dennis Lingo,44.0,XL
+20,Dennis Lingo,46.0,XXL
+21,Highlander,39.0,S
+22,Highlander,40.0,M
+23,Highlander,42.0,L
+24,Highlander,44.0,XL
+25,Highlander,46.0,XXL
+26,Campus Sutra,38.0,S
+27,Campus Sutra,40.0,M
+28,Campus Sutra,42.0,L
+29,Campus Sutra,44.0,XL
+30,The Indian Garage,39.0,S
+31,The Indian Garage,40.0,M
+32,The Indian Garage,42.0,L
+33,The Indian Garage,44.0,XL
+34,The Indian Garage,46.0,XXL
+35,INVICTUS,38.0,S
+36,INVICTUS,39.0,M
+37,INVICTUS,40.0,L
+38,INVICTUS,42.0,XL
+39,INVICTUS,44.0,XXL
+40,The Bear House,38.0,S
+41,The Bear House,40.0,M
+42,The Bear House,42.0,L
+43,The Bear House,44.0,XL
+44,The Bear House,46.0,XXL
+45,United Colors of Benetto,38.0,S
+46,United Colors of Benetto,40.0,M
+47,United Colors of Benetto,42.0,L
+48,United Colors of Benetto,44.0,XL
+49,US POLO,38.0, S
+50,US POLO,40.0, M
+51,US POLO,42.0,L
+52,US POLO,44.0,XL
+53,US POLO,46.0,XXL
+54,LOCOMOTIVE,39.0,S
+55,LOCOMOTIVE,40.0,M
+56,LOCOMOTIVE,42.0,L
+57,LOCOMOTIVE,44.0,XL
+58,HERE & NOW,38.0,S
+59,HERE & NOW,40.0,M
+60,HERE & NOW,42.0,L
+61,HERE & NOW,44.0,XL
+62,HERE & NOW,46.0,XXL
+63,Mast & Harbour,38.0, S
+64,Mast & Harbour,40.0,M
+65,Mast & Harbour,42.0,L
+66,Mast & Harbour,44.0,XL
+67,Peter England,38.0,XS
+68,Peter England,39.0,S
+69,Peter England,40.0,M
+70,Peter England,42.0,L
+71,Peter England,44.0,XL
+72,Peter England,46.0,XXL
+73,Arrow Sport,38.0,S
+74,Arrow Sport,39.0,M
+75,Arrow Sport,40.0,L
+76,Arrow Sport,42.0,XL
+77,Arrow Sport,44.0,XXL
+78,Wild West,38.0,S
+79,Wild West,40.0,M
+80,Wild West,42.0,L
+81,Wild West,44.0,XL
+82,Wild West,46.0,XXL
+83,Van Heusen Denim Labs,38.0,XS
+84,Van Heusen Denim Labs,39.0,S
+85,Van Heusen Denim Labs,40.0,M
+86,Van Heusen Denim Labs,42.0,L
+87,Van Heusen Denim Labs,44.0,XL
+88,Van Heusen Denim Labs,46.0,XXL
+89,Bene Kleed,38.0,S
+90,Bene Kleed,39.0,M
+91,Bene Kleed,40.0,L
+92,Bene Kleed,42.0,XL
+93,Bene Kleed,44.0,XXL
+94,R&B,38.0,S
+95,R&B,40.0,M
+96,R&B,42.0,L
+97,R&B,44.0,XL
+98,R&B,46.0,XXL
+99,JANISH,36.0,XS
+100,JANISH,38.0,S
+101,JANISH,40.0,M
+102,JANISH,42.0,L
+103,JANISH,44.0,XL
+109,Van Heusen Sport,38.0,XS
+110,Van Heusen Sport,39.0,S
+111,Van Heusen Sport,40.0,M
+112,Van Heusen Sport,42.0,L
+113,Ether,38.0, S
+114,Ether,40.0, M
+115,Ether,42.0, L
+116,Ether,44.0,XL
+117,Nautica,39.0,S
+118,Nautica,40.0, M
+119,Nautica,42.0, L
+120,Nautica,44.0,XL
+121,Nautica,46.0,XXL
+122,IVOC,38.0, XS
+123,IVOC,39.0,S
+124,IVOC,40.0, M
+125,IVOC,42.0,L
+126,IVOC,44.0,XL
+127,V Mart,38.0,S
+128,V Mart,40.0,M
+129,V Mart,42.0,L
+130,V Mart,44.0,XL
+131,V Mart,46.0,XXL
+132,Harvard,38.0,S
+133,Harvard,40.0,M
+134,Harvard,42.0,L
+135,Harvard,44.0,XL
+136,Allen Solly,38.0,XS
+137,Allen Solly,39.0, S
+138,Allen Solly,40.0,M
+139,Allen Solly,42.0,L
+140,Allen Solly,44.0,XL
+141,Allen Solly,46.0,XXL
+142,Tisbtane,38.0,S
+143,Tisbtane,40.0,M
+144,Tisbtane,42.0,L
+145,Tisbtane,44.0,XL
+146,Tisbtane,46.0,XXL
+147,Levis,38.0,S
+148,Levis,40.0,M
+149,Levis,42.0,L
+150,Levis,44.0,XL
+151,Sztori,46.0,XXL
+152,Hancock,38.0,S
+153,Hancock,40.0,M
+154,Hancock,42.0,L
+155,Hancock,44.0,XL
+156,Park Avenue,39.0, S
+157,Park Avenue,40.0,M
+158,Park Avenue,42.0,L
+159,Park Avenue,44.0,XL
+160,Park Avenue,46.0,XXL
+161,Black Berry,38.0, S
+162,Black Berry,39.0,M
+163,Black Berry,40.0,L
+164,Black Berry,42.0,XL
+165,Black Berry,44.0, XXL
+166,Forever ,38.0,XS
+167,Forever ,39.0,S
+168,Forever ,40.0,M
+169,Forever ,41.0,L
+170,Forever ,42.0,XL
+171,Forever ,43.0,XXL
+172,Tommy Hilfiger,38.0,XS
+173,Tommy Hilfiger,39.0,S
+174,Tommy Hilfiger,40.0,M
+175,Tommy Hilfiger,42.0,L
+176,Tommy Hilfiger,46.0,XL
+177,Tommy Hilfiger,48.0,XXL
+178,Raymond,39.0,S
+179,Raymond,40.0,M
+180,Raymond,42.0,L
+181,Raymond,44.0,XL
+182,Raymond,46.0,XXL
+183,Shaftesbury London,36.0,XS
+184,Shaftesbury London,38.0, S
+185,Shaftesbury London,40.0,M
+186,Shaftesbury London,42.0,L
+187,Shaftesbury London,44.0,XL
+188,Shaftesbury London,46.0,XXL
+189,Dennison,38.0,S
+190,Dennison,40.0,M
+191,Dennison,42.0,L
+192,Dennison,44.0,XL
+193,Sojanya,36.0, XS
+194,Sojanya,38.0,S
+195,Sojanya,40.0,M
+196,Sojanya,42.0,L
+197,Sojanya,44.0,XL
+198,SELECTED,38.0,S
+199,SELECTED,40.0,M
+200,SELECTED,42.0,L
+201,SELECTED,44.0,XL
+202,SELECTED,46.0,XXL
+203,English Navy,38.0,S
+204,English Navy,40.0,M
+205,English Navy,42.0,L
+206,English Navy,44.0,XL
+207,Nirvaan,38.0,S
+208,Nirvaan,40.0,M
+209,Nirvaan,42.0,L
+210,Nirvaan,44.0,XL
+211,Code By Lifestyle,39.0,S
+212,Code By Lifestyle,40.0,M
+213,Code By Lifestyle,42.0,L
+214,Code By Lifestyle,44.0,XL
+215,Code By Lifestyle,46.0,XXL
+216,Identiti,38.0,S
+217,Identiti,40.0,M
+218,Identiti,42.0,L
+219,Identiti,44.0,XL
+220,Identiti,46.0,XXL
+221,Harvard,38.0,S
+222,Harvard,40.0,M
+223,Harvard,42.0,L
+224,Harvard,44.0,XL
+225,Soratia,36.0,S
+226,Soratia,38.0,M
+227,Soratia,40.0,L
+228,Soratia,42.0,XL
+229,Soratia,44.0,XXL
+230,Parx,38.0,S
+231,Parx,39.0,M
+232,Parx,40.0,L
+233,Parx,42.0,XL
+234,Green Fibre,38.0,S
+235,Green Fibre,39.0,M
+236,Green Fibre,40.0,L
+237,Green Fibre,42.0,XL
+238,Green Fibre,44.0,XXL
+239,Basics,38.0,XS
+240,Basics,39.0,S
+241,Basics,40.0,M
+242,Basics,42.0,L
+243,Basics,44.0,XL
+244,Basics,46.0,XXL
+245,Color Plus,39.0,S
+246,Color Plus,40.0,M
+247,Color Plus,42.0,L
+248,Color Plus,44.0,XL
+249,AD by Aravimdh,39.0,S
+250,AD by Aravimdh,40.0,M
+251,AD by Aravimdh,42.0,L
+252,AD by Aravimdh,44.0,XL
+253,Arrow Newyork,38.0,XS
+254,Arrow Newyork,39.0,S
+255,Arrow Newyork,40.0,M
+256,Arrow Newyork,42.0,L
+257,Arrow Newyork,44.0,XL
+258,Arrow Newyork,46.0,XXL
+259,Andamen,39.0,S
+260,Andamen,40.0,M
+261,Andamen,42.0,L
+262,Andamen,44.0,XL
+263,Andamen,46.0,XXL
+264,American Eagle,35.0,XS
+265,American Eagle,38.0,S
+266,American Eagle,39.0,M
+267,American Eagle,40.0,L
+268,American Eagle,42.0,XL
+269,American Eagle,44.0,XXL
+270,abof,40.0,S
+271,abof,42.0,M
+272,abof,44.0,L
+273,abof,47.0,XL
+274,Antony Morato,35.0,XXS
+275,Antony Morato,37.0,XS
+276,Antony Morato,39.0,S
+277,Antony Morato,41.0,M
+278,Antony Morato,43.0,L
+279,Anuok,38.0,S
+280,Anuok,40.0,M
+281,Anuok,42.0,L
+282,Anuok,44.0,XL
+283,Anuok,46.0,XXL
+284,Amrut Varsha Creation,42.0,M
+285,Amrut Varsha Creation,44.0,L
+286,Amrut Varsha Creation,46.0,XL
+287,Amrut Varsha Creation,48.0,XXL
+288,ANFOLD,35.0,XS
+289,ANFOLD,38.0,S
+290,ANFOLD,42.0,M
+291,ANFOLD,44.0,L
+292,ANFOLD,45.0,XL
+293,ANFOLD,47.0,XXL
+294,American Bull,39.0,S
+295,American Bull,40.0,M
+296,American Bull,42.0,L
+297,American Bull,44.0,XL
+298,American Bull,46.0,XXL
+299,Allen Solly Tribe,38.0,S
+300,Allen Solly Tribe,39.0,M
+301,Allen Solly Tribe,40.0,L
+302,Allen Solly Tribe,42.0,XL
+303,A okay,38.0,S
+304,A okay,40.0,M
+305,A okay,42.0,L
+306,Armisto,36.0,S
+307,Armisto,38.0,M
+308,Armisto,40.0,L
+309,Armisto,42.0,XL
+310,Armisto,44.0,XXL
+311,American Swan,38.0,S
+312,American Swan,40.0,M
+313,American Swan,42.0,L
+314,American Swan,44.0,XL
+315,American Swan,46.0,XXL
+316,Aazing London,33.0,XS
+317,Aazing London,35.0,S
+318,Aazing London,37.0,M
+319,Aazing London,39.0,L
+320,Aazing London,41.0,XL
+321,Aazing London,43.0,XXL
+322,Aesthetic Bodies,36.0,XS
+323,Aesthetic Bodies,38.0,S
+324,Aesthetic Bodies,40.0,M
+325,Aesthetic Bodies,42.0,L
+326,Aesthetic Bodies,44.0,XL
+327,Beat London,38.0,S
+328,Beat London,40.0,M
+329,Beat London,42.0,L
+330,Beat London,44.0,XL
+331,Beat London,46.0,XXL
+332,Being Human,38.0,S
+333,Being Human,40.0,M
+334,Being Human,42.0,L
+335,Being Human,44.0,XL
+336,Being Human,46.0,XXL
+337,Byford By Pantaloons,38.0,S
+338,Byford By Pantaloons,39.0,M
+339,Byford By Pantaloons,40.0,L
+340,Byford By Pantaloons,42.0,XL
+341,Byford By Pantaloons,44.0,XXL
+342,Brunn & Stengade,38.0, XS
+343,Brunn & Stengade,39.0, S
+344,Brunn & Stengade,40.0,M
+345,Brunn & Stengade,42.0,L
+346,Brunn & Stengade,44.0,XL
+347,Black Coffe,39.0,S
+348,Black Coffe,40.0,M
+349,Black Coffe,42.0,L
+350,Black Coffe,44.0,XL
+351,Bawerin,38.0,M
+352,Bawerin,40.0,L
+353,Bawerin,42.0,XL
+354,Bawerin,44.0,XXL
+355,BigBanana,49.0,XXL
+356,Bushirt,40.0,M
+357,Bushirt,42.0,L
+358,Bushirt,44.0,XL
+359,Bushirt,46.0,XXL
+360,Bossini,38.0,XS
+361,Bossini,39.0,S
+362,Bossini,40.0,M
+363,Bossini,42.0,L
+364,Bossini,44.0,XL
+365,Bossini,46.0,XXL
+366,Bedgasm,38.0,S
+367,Bedgasm,40.0,M
+368,Bedgasm,42.0,L
+369,Bedgasm,44.0,XL
+370,Blamblack,38.0,S
+371,Blamblack,40.0,M
+372,Blamblack,42.0,L
+373,Blamblack,44.0,XL
+374,Blamblack,46.0,XXL
+375,Break Bounce,38.0,S
+376,Break Bounce,40.0,M
+377,Break Bounce,42.0,L
+378,Break Bounce,44.0,XL
+379,Break Bounce,46.0,XXL
+380,Balista,38.0,S
+381,Balista,40.0,M
+382,Balista,42.0,L
+383,Balista,44.0,XL
+384,Bewakoof,38.0,S
+385,Bewakoof,40.0,M
+386,Bewakoof,42.0,L
+387,Bewakoof,44.0,XL
+388,Bewakoof,46.0,XXL
+389,British club,36.0,S
+390,British club,38.0,M
+391,British club,40.0,L
+392,British club,42.0,XL
+393,British club,44.0,XXL
+394,Braclo,38.0,S
+395,Braclo,40.0,M
+396,Braclo,42.0,L
+397,Braclo,44.0,XL
+398,Braclo,46.0,XXL
+399,Cavallo By LInen,39.0, S
+400,Cavallo By LInen,40.0, M
+401,Cavallo By LInen,42.0, L
+402,Cavallo By LInen,44.0,XL
+403,Canary Lodon,36.0,S
+404,Canary Lodon,38.0,M
+405,Canary Lodon,40.0,L
+406,Canary Lodon,42.0,XL
+407,Canary Lodon,44.0,XXL
+408,Cantabil,38.0,S
+409,Cantabil,40.0,M
+410,Cantabil,42.0,L
+411,Cantabil,44.0,XL
+412,Celio,38.0, S
+413,Celio,40.0, M
+414,Celio,42.0, L
+415,Celio,44.0,XL
+416,Crocodile,38.0,S
+417,Crocodile,40.0,M
+418,Crocodile,42.0,L
+419,Crocodile,44.0,XL
+420,Crocodile,46.0,XXL
+421,Crimsoune Cloub,38.0,S
+422,Crimsoune Cloub,39.0,M
+423,Crimsoune Cloub,40.0,L
+424,Crimsoune Cloub,42.0,XL
+425,Crimsoune Cloub,44.0,XXL
+426,Cape Canary,39.0,M
+427,Cape Canary,40.0,L
+428,Cape Canary,42.0,XL
+429,Cape Canary,44.0,XXL
+430,Chennis,39.0,S
+431,Chennis,40.0,M
+432,Chennis,42.0,L
+433,Chennis,44.0,XL
+434,Chennis,46.0,XXL
+435,Calvin Klein Jeans,38.0,S
+436,Calvin Klein Jeans,40.0,M
+437,Calvin Klein Jeans,42.0,L
+438,Calvin Klein Jeans,44.0,XL
+439,Calvin Klein Jeans,45.0,XXL
+440,Chkokko,39.0,S
+441,Chkokko,40.0,M
+442,Chkokko,42.0,L
+443,Chkokko,44.0,XL
+444,Cobb,36.0,S
+445,Cobb,40.0,M
+446,Cobb,42.0,L
+447,Cobb,44.0,XL
+448,Cobb,46.0,XXL
+449,Club York,37.0,S
+450,Club York,39.0,M
+451,Club York,41.0,L
+452,Club York,43.0,XL
+453,Club York,45.0, XXL
+454,Cherokke,38.0,S
+455,Cherokke,40.0,M
+456,Cherokke,42.0,L
+457,Cherokke,44.0,XL
+458,Cherokke,46.0,XXL
+459,Copperline,38.0,S
+460,Copperline,40.0,M
+461,Copperline,42.0,L
+462,Copperline,44.0,XL
+463,Classic Polo ,36.0,S
+464,Classic Polo ,38.0,M
+465,Classic Polo ,40.0,L
+466,Classic Polo ,42.0,XL
+467,Classic Polo ,44.0,XXL
+468,Columbia,40.0,S
+469,Columbia,42.0,M
+470,Columbia,44.0,L
+471,Columbia,46.0,XL
+472,Columbia,48.0,XXL
+473,Colvynharris,38.0,M
+474,Colvynharris,40.0,L
+475,Colvynharris,42.0,XL
+476,Colt,38.0,S
+477,Colt,40.0,M
+478,Colt,42.0,L
+479,Colt,44.0,XL
+480,Colt,46.0,XXL
+481,Croydon,38.0,S
+482,Croydon,40.0,M
+483,Croydon,42.0,L
+484,Croydon,44.0,XL
+485,Canoe,38.0,S
+486,Canoe,40.0,M
+487,Canoe,42.0,L
+488,Canoe,44.0,XL
+489,Canoe,46.0,XXL
+490,Croydon Uk,38.0,S
+491,Croydon Uk,40.0,M
+492,Croydon Uk,42.0,L
+493,Croydon Uk,44.0,XL
+494,Camla,39.0,S
+495,Camla,40.0,M
+496,Camla,42.0,L
+497,Camla,44.0,XL
+498,Camla,46.0,XXL
+499,Cross Court,38.0,S
+500,Cross Court,40.0,M
+501,Cross Court,42.0,L
+502,Cross Court,44.0,XL
+503,Callno Lodon,38.0,XS
+504,Callno Lodon,39.0,S
+505,Callno Lodon,40.0,M
+506,Callno Lodon,42.0,L
+507,Callno Lodon,44.0,XL
+508,Callno Lodon,46.0,XXL
+509,D Kumar,38.0,M
+510,D Kumar,40.0,L
+511,D Kumar,42.0,XL
+512,D Kumar,44.0,XXL
+513,Dillinger,38.0,S
+514,Dillinger,40.0,M
+515,Dillinger,42.0,L
+516,Dillinger,44.0,XL
+517,Dillinger,46.0,XXL
+518,Dejano,38.0,S
+519,Dejano,40.0,M
+520,Dejano,42.0,L
+521,Dejano,44.0,XL
+522,Dejano,46.0, XXL
+523,Don Vino,39.0, S
+524,Don Vino,40.0,M
+525,Don Vino,42.0,L
+526,Don Vino,44.0, XL
+527,Ducati,38.0,S
+528,Ducati,40.0, M
+529,Ducati,42.0, L
+530,Ducati,44.0,XL
+531,Ducati,46.0,XXL
+532,Double Two,38.0,S
+533,Double Two,40.0,M
+534,Double Two,42.0,L
+535,Double Two,44.0,XL
+536,Double Two,46.0,XXL
+537,Donzell,38.0,S
+538,Donzell,40.0,M
+539,Donzell,42.0,L
+540,Donzell,43.0,XL
+541,Donzell,44.0,XXL
+542,Dcot By Donear,44.0,XXL
+543,Disrupt,40.5,S
+544,Disrupt,42.5,M
+545,Disrupt,44.5,L
+546,Disrupt,46.0,XL
+547,Drean of Glory INC ,36.0,XS
+548,Drean of Glory INC ,38.0,S
+549,Drean of Glory INC ,40.0,M
+550,Drean of Glory INC ,42.0,L
+551,Drean of Glory INC ,44.0,XL
+552,Drean of Glory INC ,46.0,XXL
+553,Denimize by Fame Forever,38.0,S
+554,Denimize by Fame Forever,40.0,M
+555,Denimize by Fame Forever,42.0,L
+556,Denimize by Fame Forever,44.0,XL
+557,Denimize by Fame Forever,46.0,XXL
+558,English Navy,38.0,S
+559,English Navy,40.0,M
+560,English Navy,42.0,L
+561,English Navy,44.0,XL
+562,excalibur,39.0,S
+563,excalibur,40.0,M
+564,excalibur,42.0,L
+565,excalibur,44.0,XL
+566,excalibur,46.0,XXL
+567,Encore By Invictus,38.0,XS
+568,Encore By Invictus,39.0,S
+569,Encore By Invictus,40.0,M
+570,Encore By Invictus,42.0,L
+571,Encore By Invictus,44.0,XL
+572,Estela,39.0,S
+573,Estela,40.0,M
+574,Estela,42.0,L
+575,Estela,44.0,XL
+576,Ecentric,38.0,S
+577,Ecentric,40.0,M
+578,Ecentric,41.0,L
+579,Ecentric,44.0,XL
+580,Ecentric,46.0,XXL
+581,Even,36.0,S
+582,Even,38.0,M
+583,Even,40.0,L
+584,Even,42.0, XL
+585,Even,44.0,XXL
+586,Evooq,38.0,M
+587,Evooq,40.0,L
+588,Evooq,42.0,XL
+589,Evooq,44.0,XXL
+590,Emerals,38.0,S
+591,Emerals,40.0,M
+592,Emerals,42.0,L
+593,Emerals,44.0,XL
+594,Ethnix By Raymond,39.0,S
+595,Ethnix By Raymond,40.0,M
+596,Ethnix By Raymond,42.0,L
+597,Ethnix By Raymond,44.0,XL
+598,Eppe ,38.0,S
+599,Eppe ,40.0,M
+600,Eppe ,42.0,L
+601,Eppe ,44.0,XL
+602,ElaBaroda,38.0,S
+603,ElaBaroda,40.0,M
+604,ElaBaroda,42.0,L
+605,ElaBaroda,44.0,XL
+606,ElaBaroda,46.0,XXL
+607,Flying Machine,38.0,S
+608,Flying Machine,40.0,M
+609,Flying Machine,42.0,L
+610,Flying Machine,44.0,XL
+611,Flying Machine,46.0,XXL
+612,Fame Forever By Lifestyle,40.0,S
+613,Fame Forever By Lifestyle,42.0,M
+614,Fame Forever By Lifestyle,44.0,L
+615,Fame Forever By Lifestyle,46.0,XL
+616,Fame Forever By Lifestyle,48.0,XXL
+617,Forca,38.0,XS
+618,Forca,39.0,S
+619,Forca,40.0,M
+620,Forca,42.0,L
+621,Forca,44.0,XL
+622,Forca,46.0,XXL
+623,Fashion Fricks,38.0,M
+624,Fashion Fricks,40.0,L
+625,Fashion Fricks,42.0,XL
+626,French Connection,38.0,S
+627,French Connection,40.0,M
+628,French Connection,42.0,L
+629,French Connection,44.0,XL
+630,French Connection,46.0,XXL
+631,Fubar,38.0,M
+632,Fubar,40.0,L
+633,Fubar,42.0,XL
+634,Forcaz By Decathlon,38.0,S
+635,Forcaz By Decathlon,40.0,M
+636,Forcaz By Decathlon,42.0,L
+637,Forcaz By Decathlon,44.0, XL
+638,Forcaz By Decathlon,46.0, XXL
+639,Finnoy,38.0,S
+640,Finnoy,40.0,M
+641,Finnoy,42.0,L
+642,Finnoy,44.0,XL
+643,Finnoy,46.0,XXL
+644,FreeSoul,38.0,S
+645,FreeSoul,40.0,M
+646,FreeSoul,42.0,L
+647,FreeSoul,44.0,XL
+648,Fabindia,39.0,XS
+649,Fabindia,40.0,S
+650,Fabindia,42.0,M
+651,Fabindia,44.0,L
+652,Fabindia,46.0,XL
+653,Firangi Yarn,38.0,S
+654,Firangi Yarn,40.0,M
+655,Firangi Yarn,42.0,L
+656,Firangi Yarn,44.0,XL
+657,Forca By Lifestyle,38.0,XS
+658,Forca By Lifestyle,39.0,S
+659,Forca By Lifestyle,40.0,M
+660,Forca By Lifestyle,42.0,L
+661,Forca By Lifestyle,44.0,XL
+662,Forca By Lifestyle,46.0,XXL
+663,Foga,38.0,S
+664,Foga,40.0,M
+665,Foga,42.0,L
+666,Foga,44.0,XL
+667,Foga,46.0,XXL
+668,French Crown,38.0,XS
+669,French Crown,39.0,S
+670,French Crown,40.0,M
+671,French Crown,42.0,L
+672,French Crown,44.0,XL
+673,French Crown,46.0,XXL
+674,Four One Oh,39.0, S
+675,Four One Oh,40.0, M
+676,Four One Oh,42.0, L
+677,Four One Oh,44.0, XL
+678,Fugazze,38.0,S
+679,Fugazze,40.0,M
+680,Fugazze,42.0,L
+681,Fugazze,44.0,XL
+682,Fugazze,46.0,XXL
+683,GreenFibre,38.0, XS
+684,GreenFibre,39.0,S
+685,GreenFibre,40.0,M
+686,GreenFibre,42.0,L
+687,GreenFibre,44.0,XL
+688,Globus,38.0,S
+689,Globus,40.0,M
+690,Globus,42.0,L
+691,Globus,44.0, XL
+692,Globus,46.0,XXL
+693,Gant,36.0,S
+694,Gant,38.0,M
+695,Gant,40.0,L
+696,Gant,42.0,XL
+697,Gant,44.0,XXL
+698,Gespo,36.0,S
+699,Gespo,38.0,M
+700,Gespo,40.0,L
+701,Gespo,42.0,XL
+702,Gristones,38.0,S
+703,Gristones,40.0,M
+704,Gristones,42.0,L
+705,Gristones,44.0,XL
+706,Glordano,38.0,S
+707,Glordano,40.0,M
+708,Glordano,42.0,L
+709,Glordano,44.0,XL
+710,Glordano,46.0,XXL
+711,Hangup,38.0, S
+712,Hangup,40.0, M
+713,Hangup,42.0,L
+714,Hangup,44.0,XL
+715,High Star,38.0,S
+716,High Star,40.0,M
+717,High Star,42.0,L
+718,High Star,44.0,XL
+719,HubberHolme,38.0,S
+720,HubberHolme,40.0,M
+721,HubberHolme,42.0,L
+722,HubberHolme,44.0,XL
+723,Huetrap,36.0,S
+724,Huetrap,39.0,M
+725,Huetrap,40.0,L
+726,Huetrap,42.0,XL
+727,Huetrap,44.0,XXL
+728,Harsam,36.0,S
+729,Harsam,38.0, M
+730,Harsam,40.0, L
+731,Harsam,42.0,XL
+732,Harsam,44.0,XXL
+733,Hatheli ,38.0,M
+734,Hatheli ,40.0,L
+735,Hatheli ,42.0,XL
+736,Hatheli ,44.0,XXL
+737,Hypernation,38.0,S
+738,Hypernation,40.0,M
+739,Hypernation,42.0,L
+740,Hypernation,44.0,XL
+741,Hypernation,46.0,XXL
+742,Huggun,39.0,S
+743,Huggun,40.0,M
+744,Huggun,41.0,L
+745,Huggun,42.5,XL
+746,Indian Terrian,38.0,S
+747,Indian Terrian,40.0,M
+748,Indian Terrian,42.0,L
+749,Indian Terrian,44.0,XL
+750,Indian Terrian,46.0, XXL
+751,Indo Era,38.0,S
+752,Indo Era,40.0,M
+753,Indo Era,42.0,L
+754,Indo Era,44.0,XL
+755,Indo Era,46.0,XXL
+756,Imyoung,38.0,S
+757,Imyoung,40.0,M
+758,Imyoung,42.0,L
+759,Imyoung,44.0,XL
+760,Imyoung,46.0,XXL
+761,Indus Route By Pantaloons,39.0,S
+762,Indus Route By Pantaloons,40.0,M
+763,Indus Route By Pantaloons,42.0,L
+764,Indus Route By Pantaloons,44.0,XL
+765,Indus Route By Pantaloons,46.0,XXL
