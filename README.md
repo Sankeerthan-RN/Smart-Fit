@@ -2,14 +2,22 @@
 
 This project presents a comprehensive approach to accurate human body measurements and shirt size prediction using Keypoints Detection, pixel estimation, 3D reconstruction, and regression modeling. By integrating these techniques, the solution aims to enhance customer satisfaction in fashion, e-commerce, and healthcare by providing precise body measurements and personalized shirt size recommendations. The methodology is evaluated using a dataset of body measurements and shirt sizes, with a focus on predicting size categories.
 
+
+
 ## Features
 
 - **Body Measurement Extraction**:
   - Linear measurements (e.g., shoulder width, shirt length) using MediaPipe keypoint detection.
+    - ![3D Reconstruction](server/data/ScreenShots/keypoint_detection.png)
+
+
   - Circular measurements (e.g., chest circumference) using 3D body reconstruction with the Human Mesh Recovery (HMR) model.
+    - ![3D Reconstruction](server/data/ScreenShots/3d_reconstruction.png)
 
 - **Shirt Size Prediction**:
   - Employs regression and classification models trained on body measurements to predict shirt size categories (S, M, L) tailored to different brands.
+
+    ![3D Reconstruction](server/data/ScreenShots/Model_results.png)
 
 - **Cross-Platform Mobile App**:
   - Developed using Flutter, compatible with Android and iOS devices.
