@@ -1,13 +1,13 @@
 # Smart Fit (Final year research project)
 
-This project presents a comprehensive approach to accurate human body measurements and shirt size prediction using Keypoints Detection, pixel estimation, 3D reconstruction, and regression modeling. By integrating these techniques, the solution aims to enhance customer satisfaction in fashion, e-commerce, and healthcare by providing precise body measurements and personalized shirt size recommendations. The methodology is evaluated using a dataset of body measurements and shirt sizes, with a focus on predicting size categories.
+This project presents a comprehensive approach to accurate human body measurements and shirt size prediction using Key Feature Detection, pixel estimation, 3D reconstruction, and regression modeling. By integrating these techniques, the solution aims to enhance customer satisfaction in fashion, e-commerce, and healthcare by providing precise body measurements and personalized shirt size recommendations. The methodology is evaluated using a dataset of body measurements and shirt sizes, with a focus on predicting size categories.
 
 
 
 ## Features
 
 - **Body Measurement Extraction**:
-  - Linear measurements (e.g., shoulder width, shirt length) using MediaPipe keypoint detection.
+  - Linear measurements (e.g., shoulder width, shirt length) 
     - ![3D Reconstruction](server/data/ScreenShots/keypoint_detection.png)
 
 
@@ -18,18 +18,25 @@ This project presents a comprehensive approach to accurate human body measuremen
   - Employs regression and classification models trained on body measurements to predict shirt size categories (S, M, L) tailored to different brands.
 
     ![3D Reconstruction](server/data/ScreenShots/Model_results.png)
+    ![image](https://github.com/user-attachments/assets/c79d7e9b-4800-4ea9-9eba-fd4693237f47)
+
 
 - **Cross-Platform Mobile App**:
   - Developed using Flutter, compatible with Android and iOS devices.
+  
 
 ## System Architecture
 
 1. **User Input**: Height and a single full-body image captured through the app.
 2. **Image Segmentation**: Uses TensorFlow DeepLabV3+ to separate the user’s body from the background.
-3. **Keypoint Detection**: Identifies key landmarks on the body for linear measurements.
+3. **Key points Detection**: Identifies key landmarks on the body for linear measurements.
 4. **Pixel-to-Centimeter Conversion**: Calculates a pixel ratio using user height for accurate scaling.
 5. **3D Reconstruction**: Builds a 3D mesh of the body for circular measurements.
 6. **Shirt Size Prediction**: Machine learning models predict shirt sizes based on extracted measurements.
+
+## Flow Diagram
+![image](https://github.com/user-attachments/assets/647982d1-e0b1-4187-848e-82480d25e9a3)
+
 
 ## Technologies Used
 
@@ -43,7 +50,7 @@ This project presents a comprehensive approach to accurate human body measuremen
 
 ## Results and Achievements
 
-- Achieved a **97.4% segmentation accuracy** using DeepLabV3+.
+- Achieved a **73.4% segmentation accuracy** using DeepLabV3+.
 - Ensemble learning models delivered the **highest accuracy** for shirt size prediction.
 - User-friendly mobile interface for inputting height and images, providing real-time AR-based fitting.
 
